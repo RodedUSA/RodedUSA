@@ -1,6 +1,3 @@
-<!-- Add this near the top -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
 # rename
 
 I write code.  
@@ -9,13 +6,19 @@ Sometimes it compiles. Sometimes it rewrites the rules.
 Based in Florida.  
 Not here to talk. Just here to build.
 
+---
+
 ## Languages & Tools
 
-- <i class="devicon-cplusplus-plain colored"></i> C++
-- <i class="devicon-c-plain colored"></i> C
-- <i class="devicon-go-plain colored"></i> Go (Goland)
-- <i class="devicon-csharp-plain colored"></i> C#
-- <i class="devicon-php-plain colored"></i> PHP
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>  
+</p>
+
+---
 
 You’ve probably used something I touched.  
 You just didn’t know it.
