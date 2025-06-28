@@ -1,16 +1,23 @@
-## Hi there 👋
+# rename
 
-<!--
-**RodedUSA/RodedUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code.  
+Sometimes it compiles. Sometimes it rewrites the rules.
 
-Here are some ideas to get you started:
+Based in Florida.  
+Not here to talk. Just here to build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+
+- C++
+- C
+- Go (Goland)
+- C#
+- PHP
+
+You’ve probably used something I touched.  
+You just didn’t know it.
+
+No social. No noise.  
+Just commits — and shadows.
+
+> “If you see my username in the repo, it’s already too late.”
